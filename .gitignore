@@ -1,3 +1,4 @@
 MNIST/logs/
 .ipynb_checkpoints/
 saved_models/
+*.npz
